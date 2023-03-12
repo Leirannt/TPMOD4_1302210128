@@ -1,0 +1,16 @@
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\bin\Debug\net5.0\tpmod4_1302210128.exe
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\bin\Debug\net5.0\tpmod4_1302210128.deps.json
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\bin\Debug\net5.0\tpmod4_1302210128.runtimeconfig.json
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\bin\Debug\net5.0\tpmod4_1302210128.runtimeconfig.dev.json
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\bin\Debug\net5.0\tpmod4_1302210128.dll
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\bin\Debug\net5.0\ref\tpmod4_1302210128.dll
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\bin\Debug\net5.0\tpmod4_1302210128.pdb
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.csproj.AssemblyReference.cache
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.AssemblyInfoInputs.cache
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.AssemblyInfo.cs
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.csproj.CoreCompileInputs.cache
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.dll
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\ref\tpmod4_1302210128.dll
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.pdb
+D:\vscode\C#\tpmod.4_1302210128\tpmod4_1302210128\tpmod4_1302210128\obj\Debug\net5.0\tpmod4_1302210128.genruntimeconfig.cache
